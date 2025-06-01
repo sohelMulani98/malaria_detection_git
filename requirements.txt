@@ -2,3 +2,7 @@ Flask
 tensorflow
 numpy
 Pillow
+keras
+matplotlib
+seaborn
+
